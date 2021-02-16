@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: ;
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+ /* Designing Main Custom Container */
+ .main__contaienr {
+     width: 100%;
+     min-height: 700px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+ }
